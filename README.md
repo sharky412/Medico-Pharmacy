@@ -10,6 +10,7 @@ An online medical store where users browse and order healthcare products, built 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux%20Toolkit-2-764ABC?logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Live demo:** https://medico-pharmacy.vercel.app
 
@@ -104,3 +105,7 @@ Project video.mp4          project demo video
 - Initial database design:
 
   ![Initial database design](Documentation/Screenshot%202024-05-03%20152957.png)
+
+## License
+
+Released under the [MIT License](LICENSE).
